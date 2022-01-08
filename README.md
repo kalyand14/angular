@@ -15,6 +15,7 @@ This likely means that the library (@angular/platform-browser) which declares Br
 
 44 export declare class BrowserModule {
                         ~~~~~~~~~~~~~
+
 **SOLUTION: **
 
 sudo npx ngcc
