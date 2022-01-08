@@ -7,7 +7,7 @@ Jan 8 2022
 
 **PROBLEM:**
 
-**Today i tried to setup my angular project and when i tried to run the ng serve i got below error **
+**Today i tried to setup my angular project and when i tried to run the ng serve i got below error**
 
 Error: node_modules/@angular/platform-browser/platform-browser.d.ts:44:22 - error NG6002: Appears in the NgModule.imports of AppModule, but could not be resolved to an NgModule class.
 
