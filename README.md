@@ -22,3 +22,31 @@ sudo npx ngcc
 
 After this i try to run ng serve the app is up and running
 
+---------------------------------------
+
+**PROBLEM**
+
+**Visual Studio Code always ask for permission to save files in Linux/Mac**
+
+**SOLUTION**
+
+Option 1
+
+Using chown command ( Recommended)
+
+cd location
+
+sudo chown your_username your_project_directory
+
+Option 2
+
+Using the chmod -R 777 command ( It depends )
+
+sudo chmod -R 777 your_project_directory_location
+
+Example
+
+Reference: https://dev.to/rahedmir/visual-studio-code-always-ask-for-permission-to-save-files-in-linux-140p
+
+
+
