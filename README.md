@@ -1,5 +1,5 @@
 # angular
-This will hold the code snippet and issues and problem that i encountered in my jounery
+This will hold the code snippet and issues/problem that i encountered in my jounery
 
 ================================================
 Jan 8 2022
