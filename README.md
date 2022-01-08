@@ -2,7 +2,13 @@
 This will hold the code snippet and issues/problem that i encountered in my jounery
 
 ================================================
-Jan 8 2022
+Tips
+================================================
+
+To auto complete in VS code, install auto import extension to auto import the component and service imports
+
+================================================
+Issues and Fixes
 ================================================
 
 **PROBLEM:**
