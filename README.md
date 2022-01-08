@@ -1,4 +1,4 @@
-# angular
+# My Angular Journey
 This will hold the code snippet and issues/problem that i encountered in my jounery
 
 ================================================
