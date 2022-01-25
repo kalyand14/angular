@@ -1,6 +1,10 @@
 # My Angular Journey
 This will hold the code snippet and issues/problem that i encountered in my jounery
 
+### Angular Study videos
+
+1. CURD series - https://www.youtube.com/watch?v=-Zm6lbax308&list=PLVz2XdJiJQxwAhzEZSpDqXlfT7XvNPDIE&index=19
+
 ### Angular Material Study Material
 
 https://code-maze.com/angular-material-series/
