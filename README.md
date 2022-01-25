@@ -4,6 +4,8 @@ This will hold the code snippet and issues/problem that i encountered in my joun
 ### Angular Study videos
 
 1. CURD series - https://www.youtube.com/watch?v=-Zm6lbax308&list=PLVz2XdJiJQxwAhzEZSpDqXlfT7XvNPDIE&index=19
+2. HTTP series - https://www.youtube.com/watch?v=8P6dG_K-a3I&list=PLopcHtZ0hJF1QZC8ThwdJqC-2aGhrpnbA&index=33
+3. Master series - https://www.youtube.com/watch?v=Fg4spR6cdBQ&list=PLp50dWW_m40XTcxIaXVqO60LaIlyHWxDS
 
 ### Angular Material Study Material
 
