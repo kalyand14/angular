@@ -9,7 +9,9 @@ This will hold the code snippet and issues/problem that i encountered in my joun
 
 ### Angular Material Study Material
 
-https://code-maze.com/angular-material-series/
+Book series - https://code-maze.com/angular-material-series/
+
+Youtube - https://www.youtube.com/playlist?list=PLp50dWW_m40V5ZNjLJiL1cMp1Fcww2V29
 
 ================================================
 Tips
