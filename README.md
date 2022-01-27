@@ -1,27 +1,32 @@
 # My Angular Journey
 This will hold the code snippet and issues/problem that i encountered in my jounery
 
-### Angular Study videos
+
+## Angular usecases
+
+1. Create a portal to show different content based roles -  admin, moderator, user. <br>
+   Reference. - https://www.bezkoder.com/angular-12-jwt-auth/
+
+## Angular Study videos
 
 1. CURD series - https://www.youtube.com/watch?v=-Zm6lbax308&list=PLVz2XdJiJQxwAhzEZSpDqXlfT7XvNPDIE&index=19
 2. HTTP series - https://www.youtube.com/watch?v=8P6dG_K-a3I&list=PLopcHtZ0hJF1QZC8ThwdJqC-2aGhrpnbA&index=33
 3. Master series - https://www.youtube.com/watch?v=Fg4spR6cdBQ&list=PLp50dWW_m40XTcxIaXVqO60LaIlyHWxDS
 
-### Angular Material Study Material
+
+## Angular Material Study Material
 
 Book series - https://code-maze.com/angular-material-series/
 
 Youtube - https://www.youtube.com/playlist?list=PLp50dWW_m40V5ZNjLJiL1cMp1Fcww2V29
 
-================================================
-Tips
-================================================
+## Tips
+
 
 1. To auto complete in VS code, install auto import extension to auto import the component and service imports
 
-================================================
-Issues and Fixes
-================================================
+## Issues and Fixes
+
 
 **PROBLEM:**
 
