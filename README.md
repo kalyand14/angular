@@ -5,8 +5,10 @@ This will hold the code snippet and issues/problem that i encountered in my joun
 ## Angular usecases
 
 1. Create a portal to show different content based roles -  admin, moderator, user. <br>
-2. JWT Authentication and authorization
-   Reference. - https://www.bezkoder.com/angular-12-jwt-auth/
+
+   Authentication and authorization <br>
+      Github:  https://github.com/bezkoder/angular-12-jwt-refresh-token <br>
+      Blogspot: - https://www.bezkoder.com/angular-12-jwt-auth/
 
 ## Angular Study videos
 
